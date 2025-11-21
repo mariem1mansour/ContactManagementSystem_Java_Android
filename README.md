@@ -11,7 +11,7 @@ A modern, feature-rich Android contact management application built with Java. T
 - 🗑️ **Delete Contacts**: Remove unwanted contacts with confirmation dialog
 - 📞 **Call Contacts**: Direct calling functionality with permission handling
 - 💬 **Send SMS**: Quick messaging feature integrated with SMS app
-- 🔍 **Search & Filter**: Find contacts quickly (if implemented)
+
 
 ### User Experience
 - 🎨 Modern Material Design UI
