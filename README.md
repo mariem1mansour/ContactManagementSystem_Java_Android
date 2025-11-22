@@ -204,8 +204,29 @@ This project is open source and available under the [MIT License](LICENSE).
 - GeeksforGeeks - Tutorial inspiration
 
 ## 📸 Screenshots
+### 1. Add Contact
+Create new contacts with name, phone, and email.
+![Add Contact](assets/addContact.png)
 
-> To Add :)
+### 2. Contact List
+View all saved contacts in a scrollable list.
+![Contact List](assets/contactList.png)
+
+### 3. Contact Details
+Tap a contact to see full details and actions.
+![Contact Details](assets/contactDetails.png)
+
+### 4. Edit Contact
+Update existing contact information.
+![Edit Contact](assets/EditContact.png)
+
+### 5. Delete Contact
+Remove unwanted contacts with confirmation.
+![Delete Contact](assets/DeleteContact.png)
+
+### 6. Call & Text Contact
+Directly call or send SMS to any contact.
+![Call & Text](assets/CallAndTextContact.png)
 
 ## 🔮 Future Enhancements
 
